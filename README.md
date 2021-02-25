@@ -1,7 +1,7 @@
 # JavaClash
 Open source Java 15 Clash of Clans server for version 13!
 
-##### Need help? Join my [Discord Server](https://discord.gg/YuV4PbwX99) or Vitalik's [Discord Server](https://discord.gg/UjfNxMt82F)
+##### Need help? Join my [Discord Server](https://discord.gg/YuV4PbwX99)
 
 ## How to start
 #### Requirements:
